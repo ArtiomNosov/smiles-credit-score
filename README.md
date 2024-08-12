@@ -1,5 +1,6 @@
 # smiles-credit-score
 [Постановка задачи](https://drive.google.com/file/d/17MwB1rnwf0Hz96drkATegfYp27wlC4J6/view)
+
 [Данные для задачи](https://ods.ai/competitions/dl-fintech-bki/data)
 
 Дополнительно от руководителя:
